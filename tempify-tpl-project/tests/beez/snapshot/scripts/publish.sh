@@ -32,7 +32,7 @@ ENTRY=$(cat <<EOF
   "tags": [$TAGS_JSON],
   "source": {
     "type": "git",
-    "url": "git+https://github.com/Coditary/Tempify-Templates.git",
+    "url": "git+https://github.com/Coditary/tempify-templates.git",
     "ref": "main",
     "subdir": "$TEMPLATE_ID"
   }
