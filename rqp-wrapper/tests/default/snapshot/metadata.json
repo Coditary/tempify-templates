@@ -1,0 +1,8 @@
+{
+  "formatVersion": 1,
+  "name": "apt-wrapper",
+  "version": "0.1.0",
+  "summary": "Apt Wrapper wrapper plugin",
+  "description": "ReqPack wrapper for apt",
+  "license": "MIT"
+}

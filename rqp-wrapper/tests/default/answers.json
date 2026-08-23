@@ -1,0 +1,8 @@
+{
+  "plugin_name": "Apt Wrapper",
+  "plugin_id": "apt-wrapper",
+  "plugin_version": "0.1.0",
+  "author": "Test Author",
+  "system_name": "apt",
+  "required_binary": "apt"
+}
