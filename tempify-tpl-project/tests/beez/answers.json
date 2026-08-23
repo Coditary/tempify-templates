@@ -1,0 +1,10 @@
+{
+  "template_name": "Sample Template",
+  "template_id": "sample-template",
+  "template_description": "Sample template generated for the fixture",
+  "template_version": "0.1.0",
+  "author": "Tempify",
+  "build_system": "beez",
+  "registry_repo": "Coditary/tempify-registry",
+  "template_tags": "starter, sample"
+}

@@ -1,0 +1,7 @@
+{
+  "template_name": "Sample Template",
+  "template_id": "sample-template",
+  "template_description": "Sample template generated for the fixture",
+  "template_version": "0.1.0",
+  "author": "Tempify"
+}
