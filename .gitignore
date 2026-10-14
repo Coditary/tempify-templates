@@ -1,2 +1,17 @@
 *.pbc
 tempify-registry/
+
+# Build / toolchain outputs
+bin/
+build/
+target/
+**/bin/
+**/build/
+
+node_modules/
+__pycache__/
+
+.DS_Store
+.idea/
+.vscode/
+
